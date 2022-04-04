@@ -4,6 +4,11 @@
 | ------------------- | ------------|
 | TI.20.A.1 | Pemrograman Web |
 
-# Langkah-langkah Praktikum <br>
-Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
+# Langkah-langkah Praktikum 4<br>
+
+# 1. Membuat Box Element
+
+Tambahkan kode tag div seperti berikut : 
+
+![Lab4web](gambar/Membuat%20Box%20Element.png)
 
